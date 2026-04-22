@@ -1,0 +1,6 @@
+framework module A18NGRT5Sdk {
+  umbrella header "A18NGRT5Sdk-umbrella.h"
+
+  export *
+  module * { export * }
+}

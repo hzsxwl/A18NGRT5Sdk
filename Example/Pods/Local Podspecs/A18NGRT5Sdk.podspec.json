@@ -1,0 +1,22 @@
+{
+  "name": "A18NGRT5Sdk",
+  "version": "0.1.0",
+  "summary": "A short description of A18NGRT5Sdk.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/260413992@qq.com/A18NGRT5Sdk",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "260413992@qq.com": "260413992@qq.com"
+  },
+  "source": {
+    "git": "https://github.com/260413992@qq.com/A18NGRT5Sdk.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "10.0"
+  },
+  "source_files": "A18NGRT5Sdk/Classes/**/*"
+}
